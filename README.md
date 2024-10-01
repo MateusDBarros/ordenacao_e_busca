@@ -1,4 +1,4 @@
-### ordenacao_e_busca
+### Ordenação e Busca
 
 ## Algoritmos implementados
 # Bubble sort
